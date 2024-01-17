@@ -40363,7 +40363,7 @@ A.Gj.prototype={
 M(a){return B.H2}}
 A.Fl.prototype={
 M(a){var s=null,r="Obulama Eats",q="Omuwala Power",p=t.F
-return A.x4(A.CV(A.ahz(A.a([B.Pm,B.KU,A.agZ(s,B.eP,new A.Yp(),s,s)],p),B.cA,B.bB,B.bU)),A.amz(A.oQ(A.a([B.h_,A.ahz(A.a([new A.kh(r,new A.lh(r,$.aCm,s),B.rl,s),new A.kh("Hedhi Help",new A.lh("HedhiHelp",$.aBV,s),B.H7,s),new A.kh("Senga Guide",new A.lh("SengaSafe",$.aCz,s),B.H6,s),new A.kh(q,new A.lh(q,$.aCn,s),B.H5,s),new A.kh("Omwana Thrive",new A.lh("OmwanaThrive",$.aCo,s),B.H4,s)],p),B.cA,B.GF,B.bU),B.h_,A.ah_("assets/Womenhealth.jpeg",B.kv,450,450),B.KO,A.EC(B.Po,new A.Yq(a),s)],p),B.di,B.bB,B.bU)))}}
+return A.x4(A.CV(A.ahz(A.a([B.Pm,B.KU,A.agZ(s,B.eP,new A.Yp(),s,s)],p),B.cA,B.bB,B.bU)),A.amz(A.oQ(A.a([B.h_,A.ahz(A.a([new A.kh(r,new A.lh(r,$.aCm,s),B.rl,s),new A.kh("Hedhi Help",new A.lh("HedhiHelp",$.aBV,s),B.H7,s),new A.kh("Senga Guide",new A.lh("SengaSafe",$.aCz,s),B.H6,s),new A.kh(q,new A.lh(q,$.aCn,s),B.H5,s),new A.kh("Omwana Thrive",new A.lh("OmwanaThrive",$.aCo,s),B.H4,s)],p),B.cA,B.GF,B.bU),B.h_,A.ah_("assets/Womenhealth.jpeg",B.kv,150,150),B.KO,A.EC(B.Po,new A.Yq(a),s)],p),B.di,B.bB,B.bU)))}}
 A.Yp.prototype={
 $0(){},
 $S:0}
